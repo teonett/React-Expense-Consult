@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Create React App - Financial Consulting
+
+<img src="https://github.com/teonett/React-Expense-Consult/blob/main/images/Captura%20de%20Tela%202021-11-25%20%C3%A0s%2022.53.12.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
